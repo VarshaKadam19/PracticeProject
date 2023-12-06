@@ -7,6 +7,7 @@ const Home = () => {
         <h1>Hello!!</h1>
         <h2>Welcome to React World</h2>
         <button className='b1'>Click here</button>
+        
     </div>
   )
 }
