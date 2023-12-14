@@ -13,12 +13,12 @@
     color: #fff;
 }
 .h2{
-    /* text-align: center; */
     padding: 1.25rem;
-    
+    text-align: center;
 }
 form#register{
     margin: 20px;
+    margin-left: 80px;
 }
 label{
     
@@ -52,34 +52,4 @@ input#submit{
 }
 #submit:hover{
     background-color: blue;
-}
-.l1{
-    margin-left: -13.5rem;
-}
-.l2{
-    margin-left: -14rem;
-}
-.l3{
-    margin-left: -15rem;
-}
-.l4{
-    margin-left: -16.5rem;
-}
-.l5{
-    margin-left: -16rem;
-}
-.i1{
-    margin-left: -13rem;
-}
-.l6{
-    margin-left: -11rem;
-}
-.i2{
-    margin-left: -8.5rem;
-}
-.l7{
-    margin-left: -14.5rem;
-}
-.l8{
-    margin-left: -10.5rem;
 }

@@ -4,7 +4,7 @@ const Register = () => {
   return (
     <div className='registerhere'>
         <h2 className='h2' >Registration Form</h2>
-        <form id='register' action="https://formsubmit.co/varshakadam@opticalarc.com" method='post'>
+        <form id='register' action="https://formsubmit.co/541efd6169e85808bc3a367d3dbad2f3" method='POST'>
         <label className='l1'>First Name : </label>
         <br />
         <input type="text" name='fname' id='name' placeholder='Enter your first name' required />
